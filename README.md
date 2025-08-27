@@ -58,6 +58,4 @@ Clustering was performed using:
 
 The study confirms that **unsupervised clustering** can reveal clinically meaningful patient groups in SIRS cases, especially when using multi-dimensional data. While some individual markers (like CRP or NeuC) are insufficient alone, combined variables can successfully stratify patients by sepsis risk.
 
----
 
-Let me know if you’d like a `.md` file or a version in italiano!
